@@ -1,0 +1,6 @@
+LIBRARY VM
+
+EXPORTS
+OuterDevirtualize @1
+InnerDevirtualize @2
+
